@@ -20,7 +20,7 @@ Este projeto é uma vitrine de jogos desenvolvida com HTML, CSS e JavaScript, ba
 
 ° JavaScript: Interatividade da página.
 
-° Gemini: Ferramenta ou metodologia utilizada no curso da Alura.
+° Gemini: Ferramenta utilizada no curso da Alura.
 
 
 📁 Estrutura do Projeto
